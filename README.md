@@ -17,6 +17,8 @@ Sou formado em CST Análise e Desenvolvimento de Sistemas pela FMU (2020), tenho
 📌 **Estudando atualmente:**
 
 <img src="/icons-readme/html.png">
+<img src="/icons-readme/css.png">
+<img src="/icons-readme/javascript.png">
 
 - HTML,CSS & JavaScript
 - Adobe XD & Figma
