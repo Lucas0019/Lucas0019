@@ -16,7 +16,7 @@ Sou formado em CST Análise e Desenvolvimento de Sistemas pela FMU (2020), tenho
 
 📌 **Estudando atualmente:**
 
-<img src="/icons-readme/html.png"><img src="/icons-readme/css.png"><img src="/icons-readme/javascript.png"><img src="/icons-readme/adobexd.png"><img src="/icons-readme/figma.png"><img src="/icons-readme/nodejs.png"><img src="/icons-readme/OS_Linux_23399.png">
+<img src="/icons-readme/html.png"><img src="/icons-readme/css.png"><img src="/icons-readme/javascript.png"><img src="/icons-readme/adobexd.png"><img src="/icons-readme/figma.png"><img src="/icons-readme/nodejs.png"><img src="/icons-readme/OS_Linux_23399.png"><img src="/icons-readme/git.png">
 
 - Básico de UI/UX
 - API REST & RESTful
