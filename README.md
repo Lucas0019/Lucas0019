@@ -26,7 +26,7 @@ Sou formado em CST Análise e Desenvolvimento de Sistemas pela FMU (2020), tenho
 
 <img src="/icons-readme/typescript.png"><img src="/icons-readme/bootstrap.png"><img src="/icons-readme/sass.png"><img src="/icons-readme/react.png"><img src="/icons-readme/vue.png"><img src="/icons-readme/jest.png">
 
-## </center>
+</center>
 
 ## 🎯 **Objetivo Atual:**
 
