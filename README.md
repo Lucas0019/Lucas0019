@@ -1,4 +1,4 @@
-![GitHub followers](https://img.shields.io/github/followers/Lucas0019?style=social)
+
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas_Xavier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/LucasXavier/)](https://www.linkedin.com/in/lucas-xavier-77a49915b/)
 [![Dribbble Badge](https://img.shields.io/badge/-Dribble-15AB89?style=flat-square&logo=dribbble&logoColor=white&link=https://dribbble.com/Lucas0019)](https://dribbble.com/Lucas0019)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsxavier.00@gmail.com)](mailto:lsxavier.00@gmail.com)
@@ -7,7 +7,7 @@
 </a>
 <a href="https://medium.com/@lucas0019" target="_blank">
 <img src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium">
-</a>
+</a>![GitHub followers](https://img.shields.io/github/followers/Lucas0019?style=social)
 
 ### Olá , Meu Nome é Lucas Xavier 🖖
 
