@@ -5,7 +5,6 @@
 <a href="https://www.instagram.com/xav_lucass/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-<img src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium">
 </a>![GitHub followers](https://img.shields.io/github/followers/Lucas0019?style=social)
 
 ### Olá , Meu Nome é Lucas Xavier 🖖
