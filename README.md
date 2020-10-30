@@ -43,4 +43,4 @@ Estudar e praticar com as tecnologias do ecossistema do Javascript e com foco pr
 
 ---
 
-## Meus Artigos <a href="https://dev.to/lucas0019"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a> <a href="https://medium.com/@lucas0019"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
+# Meus Artigos <a href="https://dev.to/lucas0019"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a> <a href="https://medium.com/@lucas0019"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
