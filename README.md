@@ -11,7 +11,7 @@
 
 Sou formado em CST Análise e Desenvolvimento de Sistemas pela FMU (2020), tenho conhecimento e experiência basica em SCRUM, Atualmente estou Estudando Desenvolvimento Web com foco em Front End e UI Designer pela **[Origamid](https://www.origamid.com/)** & **[Cod3r](https://www.udemy.com/course/curso-web/?utm_source=adwords&utm_medium=udemyads&utm_campaign=INTL-AW-PROS-Brazil-DSA-WebIndex&utm_content=deal4584&utm_term=_._ag_110792056508_._ad_440430986861_._de_c_._dm__._pl__._ti_dsa-525138004927_._li_1031811_._pd__._)**
 
-Faço parte da equipe de organização de desafios da **[DevChallange](https://devchallenge.com.br/)**, onde junto com a equipe sou responsavel em criar, analisar e buscar por novos desafios para a plataforma. Sejam eles Front-end & Back-end, esse é um projeto que contribui open source para comunidade
+Atualmente faço parte da equipe de organização de desafios da **[DevChallange](https://devchallenge.com.br/)**, onde junto com a equipe sou responsavel em criar, analisar e buscar por novos desafios para a plataforma. Sejam eles Front-end & Back-end, esse é um projeto que contribui open source para comunidade
 
 ---
 
@@ -26,7 +26,7 @@ Faço parte da equipe de organização de desafios da **[DevChallange](https://d
 
 🖥 **Estudarei em breve**
 
-<img src="/icons-readme/typescript.png"><img src="/icons-readme/bootstrap.png"><img src="/icons-readme/sass.png"><img src="/icons-readme/react.png"><img src="/icons-readme/vue.png"><img src="/icons-readme/jest.png">
+<img src="/icons-readme/typescript.png"><img src="/icons-readme/bootstrap.png"><img src="/icons-readme/sass.png"><img src="/icons-readme/react.png"><img src="/icons-readme/jest.png">
 
 </center>
 
