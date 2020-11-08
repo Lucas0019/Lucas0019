@@ -1,5 +1,5 @@
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas_Xavier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/LucasXavier/)](https://www.linkedin.com/in/lucas-xavier-77a49915b/)
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas_Xavier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas0019/)](https://www.linkedin.com/in/lucas0019/)
 [![Dribbble Badge](https://img.shields.io/badge/-Dribble-15AB89?style=flat-square&logo=dribbble&logoColor=white&link=https://dribbble.com/Lucas0019)](https://dribbble.com/Lucas0019)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsxavier.00@gmail.com)](mailto:lsxavier.00@gmail.com)
 <a href="https://www.instagram.com/xav_lucass/" target="_blank">
