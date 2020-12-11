@@ -9,9 +9,9 @@
 
 ### Olá , Meu Nome é Lucas Xavier 🖖
 
-Sou formado em CST Análise e Desenvolvimento de Sistemas pela FMU (2020), tenho conhecimento e experiência basica em SCRUM, Atualmente estou Estudando Desenvolvimento Web com foco em Front End e UI Designer pela **[Origamid](https://www.origamid.com/)** & **[Cod3r](https://www.udemy.com/course/curso-web/?utm_source=adwords&utm_medium=udemyads&utm_campaign=INTL-AW-PROS-Brazil-DSA-WebIndex&utm_content=deal4584&utm_term=_._ag_110792056508_._ad_440430986861_._de_c_._dm__._pl__._ti_dsa-525138004927_._li_1031811_._pd__._)**
+Tenho 20 anos, sou de São Paulo, formado em CST Análise e Desenvolvimento de Sistemas pela FMU (2020), tenho conhecimento e experiência prática com SCRUM em trabalhos acamicos, Atualmente estou Estudando Desenvolvimento Web com foco em Front End e UI Designer pela **[Origamid](https://www.origamid.com/)** & **[Cod3r](https://www.udemy.com/course/curso-web/?utm_source=adwords&utm_medium=udemyads&utm_campaign=INTL-AW-PROS-Brazil-DSA-WebIndex&utm_content=deal4584&utm_term=_._ag_110792056508_._ad_440430986861_._de_c_._dm__._pl__._ti_dsa-525138004927_._li_1031811_._pd__._)**
 
-Atualmente faço parte da equipe de organização de desafios da **[DevChallenge](https://devchallenge.com.br/)**, onde junto com a equipe sou responsavel em criar, analisar e buscar por novos desafios para a plataforma. Sejam eles Front-end & Back-end, esse é um projeto que contribui open source para comunidade
+E tambem a fim de me desenvolver e ajudar as pessoas faço parte da equipe de Desenvolvimento de desafios da **[DevChallenge](https://devchallenge.com.br/)**, onde junto com a equipe sou responsavel em criar, analisar e buscar por novos desafios para a plataforma. Sejam eles Front-end & Back-end, esse é um projeto que contribui open source para comunidade, trabalho de forma voluntária.
 
 ---
 
@@ -19,7 +19,7 @@ Atualmente faço parte da equipe de organização de desafios da **[DevChallenge
 
 📌 **Estudando atualmente:**
 
-<img src="/icons-readme/html.png"><img src="/icons-readme/css.png"><img src="/icons-readme/javascript.png"><img src="/icons-readme/figma.png"><img src="/icons-readme/nodejs.png"><img src="/icons-readme/OS_Linux_23399.png"><img src="/icons-readme/git.png"><img src="/icons-readme/sass.png">
+<img src="/icons-readme/html.png"><img src="/icons-readme/css.png"><img src="/icons-readme/javascript.png"><img src="/icons-readme/sass.png"><img src="/icons-readme/figma.png"><img src="/icons-readme/nodejs.png"><img src="/icons-readme/OS_Linux_23399.png"><img src="/icons-readme/git.png">
 
 - Básico de UI/UX
 - API REST & RESTful
@@ -32,7 +32,7 @@ Atualmente faço parte da equipe de organização de desafios da **[DevChallenge
 
 ## 🎯 **Objetivo Atual:**
 
-Estudar e praticar com as tecnologias do ecossistema do Javascript e com foco principal no Desenvolvimento Front End a fim de montar meu portfólio e de engarjar no mercado de trabalho e poder colaborar com a comunidade.
+Estudar e praticar com as tecnologias do ecossistema do Javascript e com foco principal no Desenvolvimento Front End a fim de montar meu portfólio e de engarjar no mercado de trabalho.
 
 - Disponivel para oportunidades de **Desenvolvedor Front End jr**
 
