@@ -7,7 +7,7 @@
 </a>
 </a>![GitHub followers](https://img.shields.io/github/followers/Lucas0019?style=social)
 
-### Olá , Meu Nome é Lucas Xavier 🖖
+## Olá , Meu Nome é Lucas Xavier 🖖
 
 Tenho 20 anos, sou de São Paulo, formado em CST Análise e Desenvolvimento de Sistemas pela FMU (2020), tenho conhecimento e experiência prática com SCRUM em trabalhos academicos, Atualmente estou Estudando Desenvolvimento Web com foco em Front End e UI Designer pela **[Origamid](https://www.origamid.com/)** & **[Cod3r](https://www.udemy.com/course/curso-web/?utm_source=adwords&utm_medium=udemyads&utm_campaign=INTL-AW-PROS-Brazil-DSA-WebIndex&utm_content=deal4584&utm_term=_._ag_110792056508_._ad_440430986861_._de_c_._dm__._pl__._ti_dsa-525138004927_._li_1031811_._pd__._)**
 
