@@ -9,7 +9,7 @@
 
 ## Eae devs, meu nome é Lucas Xavier 🤘
 
-Tenho 20 anos, sou de São Paulo, formado em CST Análise e Desenvolvimento de Sistemas pela FMU (2020), tenho conhecimento e experiência prática com SCRUM em trabalhos academicos, Atualmente estou Estudando Desenvolvimento Web com foco em Front End e UI Designer pela **[Origamid](https://www.origamid.com/)** & **[Cod3r](https://www.udemy.com/course/curso-web/?utm_source=adwords&utm_medium=udemyads&utm_campaign=INTL-AW-PROS-Brazil-DSA-WebIndex&utm_content=deal4584&utm_term=_._ag_110792056508_._ad_440430986861_._de_c_._dm__._pl__._ti_dsa-525138004927_._li_1031811_._pd__._)**
+Tenho 20 anos, sou de São Paulo, formado em CST Análise e Desenvolvimento de Sistemas pela FMU (2020), tenho conhecimento e experiência prática com SCRUM em trabalhos academicos, atualmente estou estudando Desenvolvimento Web com foco em Front End e UI Designer pela **[Origamid](https://www.origamid.com/)** & **[Cod3r](https://www.udemy.com/course/curso-web/?utm_source=adwords&utm_medium=udemyads&utm_campaign=INTL-AW-PROS-Brazil-DSA-WebIndex&utm_content=deal4584&utm_term=_._ag_110792056508_._ad_440430986861_._de_c_._dm__._pl__._ti_dsa-525138004927_._li_1031811_._pd__._)**
 
 E tambem a fim de me desenvolver minhas Hard e Soft Skills e ajudar as pessoas, faço parte da equipe de Desenvolvimento de desafios da **[DevChallenge](https://devchallenge.com.br/)**, onde junto com a equipe sou responsavel em criar, analisar e buscar por novos desafios para a plataforma. Sejam eles Front-end & Back-end, esse é um projeto que contribui open source para comunidade, trabalho de forma voluntária.
 
