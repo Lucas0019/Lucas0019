@@ -16,13 +16,9 @@ E tambem a fim de me desenvolver minhas Hard e Soft Skills e ajudar as pessoas, 
 ---
 
 
-### 📌 **Desenvolvo com as Stacks**
+### 📌 **Ferramentas que uso atualmente**
 
-<img src="/icons-readme/html.png"> <img src="/icons-readme/css.png"> <img src="/icons-readme/sass.png"> <img src="/icons-readme/javascript.png"> <img src="/icons-readme/nodejs.png"> <img src="/icons-readme/OS_Linux_23399.png"> <img src="/icons-readme/git.png">
-
-### **Ferramentas de Design que utilizo:**
-
-<img src="/icons-readme/figma.png">
+<img src="/icons-readme/figma.png"> <img src="/icons-readme/html.png"> <img src="/icons-readme/css.png"> <img src="/icons-readme/sass.png"> <img src="/icons-readme/javascript.png"> <img src="/icons-readme/nodejs.png"> <img src="/icons-readme/OS_Linux_23399.png"> <img src="/icons-readme/git.png">
 
 ### 📦 **Estudarei em breve**
 
@@ -33,8 +29,6 @@ E tambem a fim de me desenvolver minhas Hard e Soft Skills e ajudar as pessoas, 
 ## 🎯 **Objetivo Atual:**
 
 Estudar e praticar com as tecnologias do ecossistema do Javascript e com foco principal no Desenvolvimento Front End a fim de montar meu portfólio e de engarjar no mercado de trabalho.
-
-- Disponivel para oportunidades de **Desenvolvedor Front End jr**
 
 ---
 
