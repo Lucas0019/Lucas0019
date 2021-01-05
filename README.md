@@ -22,7 +22,7 @@ E tambem a fim de me desenvolver minhas Hard e Soft Skills e ajudar as pessoas, 
 
 ### 📦 **Estudarei em breve**
 
-<img src="/icons-readme/typescript.png"> <img src="/icons-readme/bootstrap.png"> <img src="/icons-readme/react.png"> <img src="/icons-readme/vue.png"> <img src="/icons-readme/jest.png"> <img src="/icons-readme/redux.png>
+<img src="/icons-readme/typescript.png"> <img src="/icons-readme/bootstrap.png"> <img src="/icons-readme/react.png"> <img src="/icons-readme/vue.png"> <img src="/icons-readme/jest.png"> <img src="/icons-readme/redux.png">
 
 --- 
 
