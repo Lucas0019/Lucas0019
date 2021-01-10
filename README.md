@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsxavier.00@gmail.com)](mailto:lsxavier.00@gmail.com)
 <a href="https://www.instagram.com/xav_lucass/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-</a>
+</a> <a href="https://dev.to/lucas0019"><img height=20 src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a> <a href="https://medium.com/@lucas0019"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=20></a>
 </a>![GitHub followers](https://img.shields.io/github/followers/Lucas0019?style=social)
 
 ## Eae devs, meu nome é Lucas Xavier 🤘
@@ -34,7 +34,3 @@ Estudar e praticar com as tecnologias do ecossistema do Javascript e com foco pr
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lucas0019)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas0019&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-# 📂 Meus Artigos <a href="https://dev.to/lucas0019"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a> <a href="https://medium.com/@lucas0019"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
