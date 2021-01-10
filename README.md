@@ -24,12 +24,6 @@ E tambem a fim de me desenvolver minhas Hard e Soft Skills e ajudar as pessoas, 
 
 <img src="/icons-readme/typescript.png"> <img src="/icons-readme/bootstrap.png"> <img src="/icons-readme/react.png"> <img src="/icons-readme/vue.png"> <img src="/icons-readme/jest.png"> <img src="/icons-readme/redux.png">
 
---- 
-
-## 🎯 **Objetivo Atual:**
-
-Estudar e praticar com as tecnologias do ecossistema do Javascript e com foco principal no Desenvolvimento Front End a fim de montar meu portfólio e de engarjar no mercado de trabalho.
-
 ---
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lucas0019)](https://github.com/anuraghazra/github-readme-stats)
