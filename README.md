@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/xav_lucass/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
 </a> <a href="https://dev.to/lucas0019"><img height=20 src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a> <a href="https://medium.com/@lucas0019"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=20></a>
-</a>![GitHub followers](https://img.shields.io/github/followers/Lucas0019?style=social)
+</a>
 
 ## Eae devs, meu nome é Lucas Xavier 🤘
 
