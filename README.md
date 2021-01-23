@@ -15,7 +15,7 @@ E tambem a fim de me desenvolver minhas Hard e Soft Skills e ajudar as pessoas, 
 ---
 
 
-### 🛠️   **Ferramentas que uso atualmente**
+### 🛠️   **Stacks que estudo atualmente**
 
 <img src="/icons-readme/OS_Linux_23399.png"> <img src="/icons-readme/figma.png"> <img src="/icons-readme/gimp.png"> <img src="/icons-readme/html.png"> <img src="/icons-readme/css.png"> <img src="/icons-readme/sass.png"> <img src="/icons-readme/javascript.png"> <img src="/icons-readme/react.png"> <img src="/icons-readme/nodejs.png">  <img src="/icons-readme/git.png">
 
