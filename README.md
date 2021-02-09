@@ -17,11 +17,11 @@ Trabalho atualmente como Desenvolvedor Front Jr end na **[Codeby](https://codeby
 ---
 
 
-### 🛠️   **Stacks que estudo atualmente**
+### 🛠️ Stacks que estudo atualmente
 
 <img src="/icons-readme/OS_Linux_23399.png"> <img src="/icons-readme/figma.png"> <img src="/icons-readme/gimp.png"> <img src="/icons-readme/html.png"> <img src="/icons-readme/css.png"> <img src="/icons-readme/sass.png"> <img src="/icons-readme/javascript.png"> <img src="/icons-readme/react.png"> <img src="/icons-readme/nodejs.png">  <img src="/icons-readme/git.png">
 
-### 📦 ** Stacks de interesse**
+### 📦 Stacks de interesse
 
 <img src="/icons-readme/typescript.png"> <img src="/icons-readme/bootstrap.png"> <img src="/icons-readme/vue.png"> <img src="/icons-readme/jest.png"> <img src="/icons-readme/redux.png">
 
