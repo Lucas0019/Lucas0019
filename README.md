@@ -22,8 +22,3 @@ E também a fim de me desenvolver minhas Hard e Soft Skills e ajudar as pessoas,
 ### 📦 Stacks de interesse
 
 <img src="/icons-readme/bootstrap.png"> <img src="/icons-readme/vue.png"> <img src="/icons-readme/jest.png"> <img src="/icons-readme/redux.png">
-
----
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lucas0019)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas0019&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
