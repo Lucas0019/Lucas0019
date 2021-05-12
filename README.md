@@ -17,4 +17,4 @@ E também a fim de me desenvolver minhas Hard e Soft Skills e ajudar as pessoas,
 
 ### 🛠️ Stacks que estudo/uso atualmente
 
-<img src="/icons-readme/OS_Linux_23399.png"> <img src="/icons-readme/html.png"> <img src="/icons-readme/css.png"> <img src="/icons-readme/sass.png"> <img src="/icons-readme/javascript.png"> <img src="/icons-readme/typescript.png"> <img src="/icons-readme/react.png"> <img src="/icons-readme/nodejs.png"> <img src="/icons-readme/shopify.png">
+<img src="/icons-readme/OS_Linux_23399.png"> <img src="/icons-readme/html.png"> <img src="/icons-readme/css.png"> <img src="/icons-readme/sass.png"> <img src="/icons-readme/javascript.png"> <img src="/icons-readme/typescript.png"> <img src="/icons-readme/react.png"> <img src="/icons-readme/nodejs.png">
