@@ -6,9 +6,9 @@
 </a><a href="https://medium.com/@lucas0019"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=20></a>
 </a>
 
-## Eae devs, meu nome é Lucas Xavier 🤘
+## Eae devs, meu nome é Lucas Xavier 🔥
 
-Sou de São Paulo, formado em CST Análise e Desenvolvimento de Sistemas pela FMU (2020), tenho conhecimento e experiência prática com SCRUM em trabalhos academicos, atualmente estou estudando Desenvolvimento Web com foco em Front End pela **[Origamid](https://www.origamid.com/)**. Trabalho atualmente como Desenvolvedor Front Jr end na **[Codeby](https://codeby.com.br/)**, em que desenvolvemos soluções de ecommerce com tecnologias modernas, usando a VTEX CMS, VTEX IO e Shopify.
+Sou de São Paulo, formado em CST Análise e Desenvolvimento de Sistemas pela FMU (2020), tenho conhecimento e experiência prática com SCRUM em trabalhos academicos, atualmente estou estudando Desenvolvimento Web com foco em Front End pela **[Origamid](https://www.origamid.com/)**. Trabalho atualmente como Desenvolvedor Front end na **[Codeby](https://codeby.com.br/)**, em que desenvolvemos soluções de ecommerce com tecnologias modernas, usando a VTEX CMS, VTEX IO e Shopify.
 
 E também a fim de me desenvolver minhas Hard e Soft Skills e ajudar as pessoas, faço parte da equipe de Desenvolvimento de desafios da **[DevChallenge](https://devchallenge.com.br/)**, onde junto com a equipe sou responsavel em criar, analisar e buscar por novos desafios para a plataforma. Sejam eles Front-end & Back-end, esse é um projeto que contribui open source para comunidade.
 
