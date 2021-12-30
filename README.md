@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas_Xavier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas0019/)](https://www.linkedin.com/in/lucas0019/)
 
-## Eae galera, meu nome é Lucas Xavier
+## Eae galera, meu nome é Lucas
 
 Trabalho atualmente como Desenvolvedor Front end na **[Codeby](https://codeby.com.br/)**, em que desenvolvemos soluções de ecommerce com tecnologias modernas, usando a VTEX CMS, VTEX IO e Shopify.
 Sou de São Paulo, formado em CST Análise e Desenvolvimento de Sistemas pela FMU (2020), atualmente estou estudando Desenvolvimento Web com foco em Front End pela **[Origamid](https://www.origamid.com/)**.
