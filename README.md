@@ -9,8 +9,6 @@
 
 🎓 Formado | CST Análise e Desenvolvimento de Sistemas
 
-🔥 Front end Developer Pleno
-
 ✍ Se especializando em desenvolvimento front end | React 
 
 💡 Estudando Design Patterns, SOLID e Code Smell | TypeScript 
