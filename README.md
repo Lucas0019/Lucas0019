@@ -3,9 +3,11 @@
   <a href="https://www.linkedin.com/in/lucas0019/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
-## Eae galera, meu nome é Lucas
+## Salve galera, prazer Lucas Xavier
 
-🎓 Formado em CST ADS | FMU 2020
+<br>
+
+🎓 Formado | CST Análise e Desenvolvimento de Sistemas
 
 🔥 Front end Developer Pleno
 
