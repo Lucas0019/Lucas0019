@@ -12,5 +12,5 @@
 
 ✒️ Certificado em Desenvolvimento VTEX IO para lojas ecommerce
 
-👉 Staks: React, TypeScript, SCSS, Styled Components, VTEX IO, Fast Store e Shopify
+👉 Stacks: React, TypeScript, SCSS, Styled Components, VTEX IO, Fast Store e Shopify
 
