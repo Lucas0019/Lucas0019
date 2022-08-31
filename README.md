@@ -7,6 +7,8 @@
 
 <br>
 
+<img align="right" height="200" style="border:1px solid black; border-radius:5px" src="./coderoom.gif">
+
 🎓 Formado | CST Análise e Desenvolvimento de Sistemas
 
 ✍ Se especializando em desenvolvimento front end | React 
