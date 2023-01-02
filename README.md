@@ -18,5 +18,3 @@
 👉 Stacks: React, TypeScript, SCSS, Styled Components, VTEX IO, Fast Store e Shopify
 
 
-
-[![@brabo's Holopin board](https://holopin.me/brabo)](https://holopin.io/@brabo)
