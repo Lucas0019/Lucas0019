@@ -3,17 +3,19 @@
   <a href="https://www.linkedin.com/in/lucas0019/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
-## Salve galera, prazer Lucas Xavier
+## Hi , I'm Lucas Xavier
 
 <br>
 
-🎓 Formado | CST Análise e Desenvolvimento de Sistemas
+🎓 Formed | CST Systems Analysis and Development
 
-✍ Se especializando em desenvolvimento front end | React 
+✍ Specializing in front end development | React and Next.js 
 
-💡 Estudando Design Patterns, SOLID e Code Smell | TypeScript 
+💡 Studying Design Patterns, SOLID and Code Smell | TypeScript 
 
-✒️ Certificado em Desenvolvimento VTEX IO para lojas ecommerce
+✒️ VTEX IO Development Certificate for ecommerce stores
+
+✒️ VTEX IO Certificate in vtex io implementation expert
 
 👉 Stacks: React, TypeScript, SCSS, Styled Components, VTEX IO, Fast Store e Shopify
 
