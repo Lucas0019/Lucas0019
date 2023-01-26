@@ -11,11 +11,13 @@
 
 ✍ Specializing in front end development | React and Next.js 
 
-💡 Studying Design Patterns, SOLID and Code Smell | TypeScript 
+⚗️  Studying Design Patterns, SOLID and Code Smell | TypeScript 
+
+🧪 Studying front-end tests and creating documentation with the storybook
 
 ✒️ VTEX IO Development Certificate for ecommerce stores
 
-✒️ VTEX IO Certificate in vtex io implementation expert
+📦 VTEX IO Certificate in vtex io implementation expert
 
 👉 Stacks: React, TypeScript, SCSS, Styled Components, VTEX IO, Fast Store e Shopify
 
