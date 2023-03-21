@@ -18,6 +18,6 @@
 
 📦 VTEX IO Certificate in vtex io implementation expert
 
-👉 Stacks: React, TypeScript, SCSS, Styled Components, VTEX IO, Fast Store e Shopify
+👉 Stacks: Next.js, React, TypeScript, SCSS, Styled Components, VTEX IO, Fast Store e Shopify
 
 
