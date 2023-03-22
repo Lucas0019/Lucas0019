@@ -10,7 +10,7 @@
 
 ✍ Specializing in front end development | React and Next.js 
 
-⚗️  Studying Design Patterns, SOLID and Code Smell | TypeScript 
+⚗️  Studying Clean code, SOLID and Code Smell | TypeScript 
 
 🧪 Studying front-end tests and creating documentation with the storybook
 
