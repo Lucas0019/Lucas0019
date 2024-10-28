@@ -8,12 +8,12 @@
 
 🎓 Formed | CST Systems Analysis and Development
 
-✍ Specializing in front end development | React and Next.js 
+✍ Specializing in front end development
 
 ✒️ VTEX IO Development Certificate for ecommerce stores
 
 📦 VTEX IO Certificate in vtex io implementation expert
 
-👉 Stacks: Next.js, React, TypeScript, SCSS, Styled Components, VTEX IO, Fast Store e Shopify
+👉 Stacks: Typescript, React.js, Node.js, Next.js, SCSS, Styled Components, Tailwind, VTEX IO, Fast Store e Shopify
 
 
