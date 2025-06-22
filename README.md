@@ -6,14 +6,31 @@
 
 <br>
 
-🎓 Formed | CST Systems Analysis and Development
+## 👨‍💻 About Me
 
-✒️ VTEX IO Development Certificate for ecommerce stores
+I'm a front-end developer with over **4 years of experience** building e-commerce websites that balance **performance**, **usability**, and **scalability**.
 
-📦 VTEX IO Certificate in vtex io implementation expert
+🚀 Currently, I work at **Codeby · A Keyrus Company**, delivering solutions using:
 
-👉 Stacks: Typescript, React.js, Node.js, Next.js, SCSS, Styled Components, Tailwind, 
+- ⚙️ **VTEX IO**, **VTEX Faststore**, **Shopify**, and **Deco.cx**
+- 🧱 Accessible, modular interfaces with **clean code**
+- 🌐 Headless CMS integrations, with a focus on **SEO** and **CRO**
 
-✍ VTEX Legacy, VTEX IO, Fast Store, Deco.CX e Shopify
+🛠️ I'm also expanding into back-end development with:
+
+- **Node.js**, **REST APIs**, **Docker**, and **PostgreSQL**
+- Building and maintaining **full-stack applications** within the VTEX ecosystem
+
+🎯 I'm currently deepening my knowledge in:
+
+- 🧠 **Software Architecture**
+- ☁️ **Cloud Computing (AWS)**
+
+💡 I'm always aiming to write purposeful code, collaborate across teams, and contribute to more efficient solutions.
+
+---
+
+🤝 If you value well-thought-out solutions, collaboration, and consistent delivery — I'd love to connect!
+
 
 
