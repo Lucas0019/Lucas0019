@@ -9,7 +9,7 @@
 
 I'm a front-end developer with over **4 years of experience** building e-commerce websites that balance **performance**, **usability**, and **scalability**.
 
-🚀 Currently, I work at **Codeby · A Keyrus Company**, delivering solutions using:
+🚀 Currently, I work at **Keyrus Company**, delivering solutions using:
 
 - ⚙️ **VTEX IO**, **VTEX Faststore**, **Shopify**, and **Deco.cx**
 - 🧱 Accessible, modular interfaces with **clean code**
