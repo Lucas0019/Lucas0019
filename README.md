@@ -2,34 +2,58 @@
   <a href="https://www.linkedin.com/in/olucasxavier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
-## Hi, I'm Lucas Xavier and i'm a developer
+## Hi, I'm Lucas Xavier 👋  
+### Frontend Developer focused on E-commerce & Performance
 
+👨‍💻 **About Me**
 
-## 👨‍💻 About Me
+I'm a **Frontend Developer** with over **5 years of experience** building high-performance e-commerce solutions that balance **technical excellence**, **usability**, and **business results**.
 
-I'm a front-end developer with over **4 years of experience** building e-commerce websites that balance **performance**, **usability**, and **scalability**.
-
-🚀 Currently, I work at **Keyrus Company**, delivering solutions using:
-
-- ⚙️ **VTEX IO**, **VTEX Faststore**, **Shopify**, and **Deco.cx**
-- 🧱 Accessible, modular interfaces with **clean code**
-- 🌐 Headless CMS integrations, with a focus on **SEO** and **CRO**
-
-🛠️ I'm also expanding into back-end development with:
-
-- **Node.js**, **REST APIs**, **Docker**, and **PostgreSQL**
-- Building and maintaining **full-stack applications** within the VTEX ecosystem
-
-🎯 I'm currently deepening my knowledge in:
-
-- 🧠 **Software Architecture**
-- ☁️ **Cloud Computing (AWS)**
-
-💡 I'm always aiming to write purposeful code, collaborate across teams, and contribute to more efficient solutions.
+Currently, I work at **:contentReference[oaicite:0]{index=0}**, delivering scalable and conversion-oriented solutions for medium and large clients.
 
 ---
 
-🤝 If you value well-thought-out solutions, collaboration, and consistent delivery — I'd love to connect!
+### 🚀 What I work with daily
 
+⚙️ **E-commerce Platforms**
+- VTEX (CMS Legacy, IO, FastStore)
+- Shopify & Liquid
+
+🧱 **Frontend Engineering**
+- Accessible, modular interfaces (WCAG)
+- Clean Code, SOLID, and Code Smells (React)
+- Performance-focused UI with attention to Core Web Vitals
+
+🌐 **Architecture & Integrations**
+- Headless CMS architectures
+- REST APIs with SEO & CRO-oriented implementations
+- Microfrontends and BFF concepts
+
+---
+
+### 🛠️ Also working close to the backend
+
+- Node.js
+- REST APIs
+- Full-stack workflows inside e-commerce vtex
+
+---
+
+### 🎯 Currently deepening my knowledge in
+
+🧠 Software Architecture  
+☁️ Cloud Computing (AWS)  
+🧪 Testing (Unit, Integration & E2E)  
+🤖 AI applied to software development
+
+---
+
+### 💡 Mindset
+
+I aim to write **purposeful code** — performant, scalable, easy to maintain — while collaborating closely with design, product, and engineering teams to deliver consistent and efficient solutions.
+
+---
+
+🤝 **If you value well-thought-out solutions, collaboration, and continuous improvement — let’s connect!**
 
 
